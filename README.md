@@ -1,2 +1,2 @@
-# 3DXSync-Dashboard-BackEnd
-3DXSync-Dashboard-BackEnd
+# Full UI Testing
+Testing End To End UI by using Cypress
