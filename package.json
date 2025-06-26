@@ -1,0 +1,23 @@
+{
+  "name": "cypress-automation-full-ui-testing",
+  "version": "1.0.0",
+  "description": "Testing End To End UI by using Cypress",
+  "homepage": "https://github.com/minutuscomputing/Cypress-Automation-Full-UI-Testing#readme",
+  "bugs": {
+    "url": "https://github.com/minutuscomputing/Cypress-Automation-Full-UI-Testing/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minutuscomputing/Cypress-Automation-Full-UI-Testing.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cypress": "^14.5.0"
+  }
+}
