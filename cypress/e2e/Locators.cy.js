@@ -32,7 +32,7 @@ describe('Motor Selector Admin Console', () => {
     cy.xpath('/html/body/my-app/div/div/div/div[2]/div/div/div/div/div/header/div').should('be.visible');
   });
 it('should type input in search ', () => {
-  cy.xpath('//*[@id="input-2"]').type('XBGACE06116BA3H01D', { force: true });
+  cy.xpath('//*[@id="input-2"]').type('XBHDCE06116BA3H02E', { force: true });
 });
 it('should remove input from search', () => {
   cy.xpath('//*[@id="input-2"]').clear({ force: true });
